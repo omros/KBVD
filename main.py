@@ -1,4 +1,4 @@
-from turtle import clear
+# from turtle import clear
 import streamlit as st
 import pandas as pd
 import plotly.express as px
