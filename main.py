@@ -92,7 +92,7 @@ with tab_visualisasi:
     st.markdown("---")
     
     # Chart 1: Line Chart Tren Harga
-    st.subheader("1. Tren Harga Harian")
+    st.subheader("1. Tren Harga")
     
     # Buat objek fig1 menggunakan px.line
     fig1 = px.line(
