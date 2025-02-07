@@ -9,7 +9,7 @@ from sklearn.preprocessing import StandardScaler
 
 # Konfigurasi halaman
 st.set_page_config(
-    page_title="Analisis Harga Komoditas",
+    page_title="Analisis Harga di Bandung dari Komoditas",
     page_icon="📈",
     layout="wide",
     initial_sidebar_state="expanded"
