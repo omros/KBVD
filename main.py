@@ -9,7 +9,7 @@ from sklearn.preprocessing import StandardScaler
 
 # Konfigurasi halaman
 st.set_page_config(
-    page_title="Analisis Harga di Bandung dari Komoditas",
+    page_title="Analisis Harga Komoditas",
     page_icon="📈",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -81,7 +81,7 @@ filtered_df = df[
 ]
 
 # Layout utama
-title = "📊 Analisis Harga Komoditas"
+title = "📊 Analisis Harga di Bandung dari Komoditas"
 if selected_commodities:
     title += f" - {', '.join(selected_commodities)}"
 st.title(title)
