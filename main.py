@@ -138,7 +138,7 @@ with tab_visualisasi:
     
     st.markdown("""
     **Penjelasan:**
-    - Menunjukkan pergerakan harga harian komoditas pilihan
+    - Menunjukkan pergerakan harga komoditas pilihan
     - Garis warna berbeda mewakili komoditas yang berbeda
     - Titik merah menunjukkan harga tertinggi, titik hijau menunjukkan harga terendah
     - Dapat melihat pola kenaikan/penurunan harga secara temporal
