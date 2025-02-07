@@ -81,7 +81,7 @@ filtered_df = df[
 ]
 
 # Layout utama
-title = "📊 Analisis Harga di Bandung dari Komoditas"
+title = "📊 Analisis Harga di Jawa Barat dari Komoditas"
 if selected_commodities:
     title += f" - {', '.join(selected_commodities)}"
 st.title(title)
